@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CustomCalendar</string>
+    <string name="day">24</string>
+    <string name="btn_save">Save</string>
+    <string name="hint_note">Write your note…</string>
+    <string name="bottom_sheet_title">Note</string>
+    <string name="day_of_week">MON</string>
+    <string name="note_title_with_date">Note for %1$s</string>
+    <string name="toast_save_note">Note cannot be empty!</string>
+
+</resources>
